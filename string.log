@@ -1,0 +1,9 @@
+
+root INFO 2022-07-13 21:46:06,188 string extraction is succesfull and given string is ; this is My First Python programming class and i am learNING python string and its function
+root INFO 2022-07-13 21:46:06,189 filtering out vowels is in process
+root INFO 2022-07-13 21:46:06,189 trying string repplacement
+root INFO 2022-07-13 21:46:06,189 string lowering is done and given string is this is My First Python programming class and i am learNING python string and its function
+root INFO 2022-07-13 21:46:06,189 expand tabs is done and given string is this is My First Python programming class and i am learNING python string and its function
+root INFO 2022-07-13 21:46:06,189 string capitalization is done and given string is this is My First Python programming class and i am learNING python string and its function 
+root INFO 2022-07-13 21:46:06,190 string splitting is is succesfull and this is My First Python programming class and i am learNING python string and its function
+root INFO 2022-07-13 21:46:06,190 string reverse is successfull and this is My First Python programming class and i am learNING python string and its function
