@@ -1,4 +1,4 @@
-# ineuron_tasks
+# ineuron_live_tasks
 This repository contains all the tasks of iNeuron Full Stack Data Science Course (May Batch 2022)
 
 
